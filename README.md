@@ -1,6 +1,7 @@
 ## 활동
 
-[![AsteraMoment](https://img.shields.io/badge/AsteraMoment-Developer-blueviolet?style=flat-square&logo=github)](https://github.com/AsteraMoment) `2025.01 ~`
+[![AsteraMoment](https://img.shields.io/badge/AsteraMoment-Developer-blueviolet?style=flat-square&logo=github)](https://github.com/AsteraMoment)  
+`2026.01 ~`
 
 ---
 
