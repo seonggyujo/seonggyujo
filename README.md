@@ -1,5 +1,7 @@
 <div align="center">
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seonggyujo&theme=soft-green&locale=ko)
+
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seonggyujo&theme=gruvbox)
 
 </div>
