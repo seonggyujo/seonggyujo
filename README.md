@@ -1,6 +1,12 @@
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=seonggyujo&theme=soft-green&hide_border=true&locale=ko)](https://git.io/streak-stats)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seonggyujo&theme=gruvbox)
+
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seonggyujo&theme=gruvbox)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seonggyujo&theme=gruvbox)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seonggyujo&theme=gruvbox)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seonggyujo&theme=gruvbox&utcOffset=9)
 
 </div>
 
