@@ -2,9 +2,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seonggyujo&show_icons=true&theme=merko&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seonggyujo&layout=compact&theme=merko&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=seonggyujo&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
