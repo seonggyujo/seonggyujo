@@ -1,4 +1,4 @@
-## 📊 GitHub 통계
+## GitHub 통계
 
 <div align="center">
 
