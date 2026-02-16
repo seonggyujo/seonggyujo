@@ -1,8 +1,8 @@
 <div align="center">
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seonggyujo&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api?username=seonggyujo&show_icons=true&theme=gruvbox&locale=ko&hide_title=true)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seonggyujo&theme=gruvbox)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seonggyujo&theme=gruvbox)
 
 </div>
 
