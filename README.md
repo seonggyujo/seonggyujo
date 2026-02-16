@@ -1,7 +1,5 @@
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=seonggyujo&show_icons=true&theme=gruvbox&locale=ko&hide_title=true)
-
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seonggyujo&theme=gruvbox)
 
 </div>
