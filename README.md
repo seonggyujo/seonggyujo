@@ -1,3 +1,15 @@
+## 📊 GitHub 통계
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seonggyujo&show_icons=true&theme=merko&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seonggyujo&layout=compact&theme=merko&hide_border=true)
+
+</div>
+
+---
+
 ## 활동
 
 [![AsteraMoment](https://img.shields.io/badge/AsteraMoment-Developer-blueviolet?style=flat-square&logo=github)](https://github.com/AsteraMoment)  
