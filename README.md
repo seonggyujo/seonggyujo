@@ -1,5 +1,3 @@
-## GitHub 통계
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=seonggyujo&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
